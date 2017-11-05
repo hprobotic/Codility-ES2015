@@ -1,0 +1,19 @@
+{
+  "name": "cdes6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hprobotic",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hprobotic/Codility-ES2015.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hprobotic/Codility-ES2015/issues"
+  },
+  "homepage": "https://github.com/hprobotic/Codility-ES2015#readme"
+}
